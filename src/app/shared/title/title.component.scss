@@ -1,0 +1,76 @@
+.title-item {
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    width: 260px;
+}
+.title-item img {
+    width: 100%;
+}
+
+.title-item:hover .items {
+    opacity: 1;
+
+}
+.title-item:hover img {
+    opacity: 3;
+    border: none;
+    
+}
+.title-item .items {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #fff;
+    height: 100%;
+    padding: 10px;
+    background: linear-gradient(to bottom, rgba(0,0,0,.1), rgba(0,0,0,.7));
+    display: flex;
+    align-items: flex-end;
+    transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    opacity: 0;
+}
+.title-item h2 {
+    color: #fff;
+    font-size: 20px;
+    margin: 5px auto;
+}
+
+
+.title-item ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.title-item ul li {
+    margin-right: 10px;
+}
+.year {
+    color: #3FAD56;
+    font-weight: bold;
+}
+
+::ng-deep {
+    .modal-content {
+        background-color:#000000d6 !important;
+        color: white;
+    }
+    .modal-header {
+        border-bottom: none !important;
+    }
+    .modal-title {
+        margin-left: 120px;
+    }
+}
+.watch {
+    background-color: red;
+    border: none;
+    border-radius: 8px;
+    color: #FFF;
+    width: 100%;
+}
+

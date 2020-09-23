@@ -1,0 +1,255 @@
+{
+    "titles": [
+        { 
+            "titulo": "Uma linda mulher",
+            "ano": "1990",
+            "genero": "Romance",
+            "direcao": "Garry Marshall",
+            "descricao": "Durante uma viagem de negócios a Los Angeles, Edward, um executivo que compra e fragmenta empresas para vendê-las, encontra a prostituta Vivian. Edward a contrata para ficar com ele durante uma semana a fim de acompanhá-lo nos jantares de negócios. Os dois se aproximam e descobrem que há vários obstáculos para serem superados até que possam unir seus mundos tão diferentes.",
+            "poster": "https://i.pinimg.com/originals/43/d2/e2/43d2e209f47520957f8d7c176cdb0170.jpg"
+        },
+        {
+            "titulo": "A Bela e a Fera",
+            "ano": "2017",
+            "direcao": "Bill Condon",
+            "genero": "Fantasia",
+            "descricao": "Moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida ao estranho ser em troca da liberdade do progenitor. No castelo, ela conhece objetos mágicos e descobre que a Fera é na verdade um príncipe que precisa de amor para voltar à forma humana.",
+            "poster": "https://br.web.img3.acsta.net/pictures/17/01/09/12/22/442219.jpg"
+        },
+
+        {
+            "titulo": "Velozes e furiosos 7",
+            "ano": "2015",
+            "direcao": "James Wan",
+            "genero": "Ação",
+            "descricao": "Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma. Agora, a equipe tem de unir forças para deter um vilão novo e ainda mais perigoso. Dessa vez, não se trata apenas de uma questão de velocidade: a corrida é pela sobrevivência.",
+            "poster": "https://br.web.img3.acsta.net/pictures/15/03/30/21/19/054397.jpg"
+        },
+
+        {
+            "titulo": "A culpa é das estrelas",
+            "ano": "2014",
+            "direcao": "Josh Boone",
+            "genero": "Romance",
+            "descricao": "Hazel Grace Lancaster e Augustus Waters são dois adolescentes que se conhecem em um grupo de apoio para pacientes com câncer. Por causa da doença, Hazel sempre descartou a ideia de se envolver amorosamente, mas acaba cedendo ao se apaixonar por Augustus. Juntos, eles viajam para Amsterdã, onde embarcam em uma jornada inesquecível. ",
+            "poster": "data:image/jpeg;base64,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"
+        },
+        {
+            "titulo": "Homem de ferro",
+            "ano": "2008",
+            "genero": "Ação",
+            "direcao": "Jon Favreau",
+            "descricao": "Tony Stark é um industrial bilionário e inventor brilhante que realiza testes bélicos no exterior, mas é sequestrado por terroristas que o forçam a construir uma arma devastadora. Em vez disso, ele constrói uma armadura blindada e enfrenta seus sequestradores. Ao voltar para os EUA, Stark aprimora a armadura e a utiliza para combater o crime. ",
+            "poster": "https://img.elo7.com.br/product/original/1DFB189/poster-cartaz-iron-man-homem-de-ferro-poster-tematico.jpg"
+        },
+        {
+            "titulo": "Matrix",
+            "ano": "1999",
+            "direcao": " Lilly Wachowski, Lana Wachowski",
+            "genero": "Ação",
+            "descricao": "Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. ",
+            "poster": "https://img.elo7.com.br/product/original/2679A20/big-poster-filme-matrix-lo03-tamanho-90x60-cm-geek.jpg"
+        },
+        {
+            "titulo": "Transformers",
+            "ano": "2007",
+            "direcao": "Michael Bay, Travis Knight",
+            "genero": "Ação",
+            "descricao": "O destino da humanidade está em jogo quando duas raças de robôs, os Autobots e os vilões Decepticons, chegam à Terra. Os robôs possuem a capacidade de se transformarem em diferentes objetos mecânicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam. ",
+            "poster": "https://img.elo7.com.br/product/original/2694580/big-poster-filme-transformers-1-lo01-tamanho-90x60-cm-nerd.jpg"
+        
+        },
+        {
+            "titulo": "Moana",
+            "ano": "2017",
+            "direcao": "Ron Clements, John Musker",
+            "genero": "Aventura",
+            "descricao": "Uma jovem parte em uma missão para salvar seu povo. Durante a jornada, Moana conhece o outrora poderoso semideus Maui, que a guia em sua busca para se tornar uma mestre em encontrar caminhos. Juntos, eles navegam pelo oceano em uma viagem incrível. ",
+            "poster": "https://images-na.ssl-images-amazon.com/images/I/A1JOaV3B6fL._AC_SL1500_.jpg"
+        },
+        {
+            "titulo": "A cinco passos de você",
+            "ano": "2019",
+            "direcao": "Justin Baldoni",
+            "genero": "Drama",
+            "descricao": "Dois pacientes com fibrose cística se apaixonam, apesar das regras do hospital afirmarem que eles devem manter 1,5 metros de distância entre si. ",
+            "poster": "https://br.web.img3.acsta.net/pictures/19/02/19/15/31/1517190.jpg"
+        },
+        {
+            "titulo": "Duro de matar",
+            "ano": "1988",
+            "genero": "Ação",
+            "direcao": "John McTiernan, Len Wiseman, Renny Harlin, John Moore",
+            "descricao": "O policial de Nova York John McClane está visitando sua família no Natal. Ele participa de uma confraternização de fim de ano na sede da empresa japonesa em que a esposa trabalha. A festa é interrompida por terroristas que invadem o edifício de luxo. McClane não demora a perceber que não há ninguém para salvá-los, a não ser ele próprio. ",
+            "poster": "https://br.web.img2.acsta.net/medias/nmedia/18/92/25/88/20188922.jpg"
+        },
+        {
+            "titulo": "A casa de cera",
+            "ano": "2005",
+            "direcao": "Jaume Collet-Serra",
+            "genero": "Terror",
+            "descricao": "Um grupo de amigos da faculdade está a caminho de um jogo de futebol quando, em uma cidade fantasma, o carro quebra e são obrigados a procurar auxílio no único lugar que está aberto: o museu de cera local. Eles ficam impressionados com a perfeição das esculturas e logo percebem a razão de tanto realismo. Aterrorizados, fogem para não se transformarem em peças de museu. ",
+            "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/87/04/10/19871385.jpg"
+        },
+        {
+            "titulo": "Stigmata",
+            "ano": "1999",
+            "direcao": "Rupert Wainwright",
+            "genero": "Terror",
+            "descricao": "Frankie Paige, uma jovem mulher sem crença religiosa, começa a ter estranhas e violentas experiências, mostrando sinais das feridas que Jesus recebeu ao ser crucificado. Quando o Vaticano recebe a notícia da situação da moça, um cardeal de alto nível pede que o Reverendo Andrew Kiernan investigue o caso. Logo o religioso se dá conta de que forças sinistras estão por trás do acontecido e tenta resgatar Frankie da entidade que a está atormentando. ",
+            "poster": "https://images-na.ssl-images-amazon.com/images/I/41iNiIgjBCL._AC_.jpg"
+        },
+        {
+            "titulo": "Todo mundo em pânico",
+            "ano": "2000",
+            "direcao": "Keenen Ivory Wayans, David Zucker, Malcolm D. Lee",
+            "genero": "Comédia",
+            "descricao": "Depois do assassinato de uma bela colega de classe, um grupo de adolescentes desorientados descobre que há um assassino entre eles. A heroína Cindy Campbell e a sua turma de amigos tentam se proteger do perigo, mas Gail Hailstorm, uma repórter irritante, simplesmente não os deixa em paz. ",
+            "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/87/28/03/19873867.jpg"
+        },
+        {
+            "titulo": "Pânico",
+            "ano": "1997",
+            "direcao": "Wes Craven",
+            "genero": "Terror",
+            "descricao": "Um grupo de jovens enfrenta um assassino mascarado que testa seus conhecimentos sobre filmes de terror. A pequena cidade de Woodsboro nunca mais será a mesma. ",
+            "poster": "https://img.elo7.com.br/product/zoom/268B8AC/big-poster-filme-panico-1996-lo02-tamanho-90x60-cm-poster-de-filme.jpg"
+        },
+        {
+            "titulo": "A morte te dá parabéns",
+            "ano": "2017",
+            "direcao": "Christopher B. Landon",
+            "genero": "Terror",
+            "descricao": "A estudante universitária Tree Gelbman maltrata as pessoas e não parece estar muito disposta a atender as ligações do pai no seu aniversário. No fim do mesmo dia, no entanto, ela é brutalmente assassinada por um mascarado. Acontece que ela sobrevive, ou melhor, acorda no mesmo e fatídico dia, em uma espécie de looping macabro que termina sempre com a morte da garota. Reviver este dia dá a Tree a chance de investigar quem é o seu assassino. ",
+            "poster": "https://br.web.img3.acsta.net/pictures/17/07/13/21/40/079851.jpg"
+        },
+        {
+            "titulo": "Uma noite de crime",
+            "ano": "2013",
+            "genero": "Terror",
+            "direcao": "James DeMonaco, Gerard McMurray, Everardo Valerio Gout",
+            "descricao": "No futuro, uma família rica é mantida refém por abrigar o alvo de um grupo assassino durante a Noite de Crime, um período de 12 horas em que todo e qualquer crime é legalizado. ",
+            "poster": "https://br.web.img3.acsta.net/pictures/210/335/21033500_20130830193413918.jpg"
+        },
+        {
+            "titulo": "Gente Grande",
+            "ano": "2010",
+            "genero": "Comédia",
+            "direcao": "Dennis Dugan",
+            "descricao": "A morte do treinador de basquete da infância de velhos amigos os reúne no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade. ",
+            "poster": "https://br.web.img3.acsta.net/pictures/210/299/21029996_20130821205722213.jpg"
+        },
+        {
+            "titulo": "Truque de mestre",
+            "ano": "2013",
+            "genero": "Ação",
+            "direcao": "Louis Leterrier",
+            "descricao": "Um grupo de ilusionistas encanta o público com suas mágicas e também rouba bancos em outro continente, distribuindo a quantia roubada para os próprios espectadores. O agente do FBI Dylan Hobbs está determinado a capturá-los e conta com a ajuda de Alma Vargas, uma detetive da Interpol, e também de Thaddeus Bradley, um veterano desmistificador de mágicos que insiste que os assaltos são realizados a partir de disfarces e jogos envolvendo vídeos. ",
+            "poster": "https://br.web.img3.acsta.net/pictures/210/140/21014024_20130619225537406.jpg"
+        
+        },
+        {
+            "titulo": "Hora do rush 3",
+            "ano": "2007",
+            "genero": "Ação",
+            "direcao": "Brett Ratner",
+            "descricao": "O leste encontra o oeste novamente. Depois de um atentado contra o Embaixador Han, Lee e Carter vão para Paris para proteger uma francesa que sabe demais sobre os secretos líderes do Triad. Enquanto isso, eles também precisam lutar contra a máfia chinesa de Paris e um amigo de infância de Lee conforme eles procuram por um envelope que contem a identidade de um poderoso chefão do crime. ",
+            "poster": "https://br.web.img2.acsta.net/medias/nmedia/18/90/18/92/20085043.jpg"
+        },
+        {
+            "titulo": "Toy Story",
+            "ano": "1995",
+            "direcao": "John Lasseter",
+            "genero": "Fantasia",
+            "descricao": "O aniversário do garoto Andy está chegando e seus brinquedos ficam nervosos, temendo que ele ganhe novos brinquedos que possam substituí-los. Liderados pelo caubói Woody, o brinquedo predileto de Andy, eles recebem Buzz Lightyear, o boneco de um patrulheiro espacial, que logo passa a receber mais atenção do garoto. Com ciúmes, Woody tenta ensiná-lo uma lição, mas Buzz cai pela janela. É o início da aventura do caubói, que precisa resgatar Buzz para limpar sua barra com os outros brinquedos. ",
+            "poster": "https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/2/227020140608-uau-posters-filmes-infantis-animacao-toy-story-toy-story--1.jpg"
+        },
+        {
+            "titulo": "Rei Leão",
+            "ano": "1994",
+            "genero": "Aventura",
+            "direcao": "Rob Minkoff, Roger Allers",
+            "descricao": "Este desenho animado da Disney mostra as aventuras de um leão jovem de nome Simba, o herdeiro de seu pai, Mufasa. O tio malvado de Simba, Scar, planeja roubar o trono de Mufasa atraindo pai e filho para uma emboscada. Simba consegue escapar e somente Mufasa morre. Com a ajuda de seus amigos,Timão e Pumba, ele reaparece como adulto para recuperar sua terra, que foi roubada por seu tio Scar. ",
+            "poster": "https://img.elo7.com.br/product/original/26925DE/big-poster-filme-rei-leao-1994-lo02-tamanho-90x60-cm-nerd.jpg"
+        },
+        {
+            "titulo": "O Senhor dos anéis",
+            "ano": "2002",
+            "genero": "Fantasia",
+            "descricao": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel. ",
+            "poster": "https://img.elo7.com.br/product/zoom/2692717/poster-o-senhor-dos-aneis-a-sociedade-do-anel-lo02-90x60-cm-presente-geek.jpg"
+        },
+        {
+            "titulo": "Star Wars Episódio I : A Ameaça Fantasma",
+            "ano": "1999",
+            "genero": "Ficção-Ciêntifica",
+            "direcao": "George Lucas",
+            "descricao": "Obi-Wan e seu mentor embarcam em uma perigosa aventura na tentativa de salvar o planeta das garras de Darth Sidious. Durante a viagem, eles conhecem um habilidoso menino e decidem treiná-lo para se tornar um Jedi. Mas o tempo irá revelar que as coisas nem sempre são o que aparentam ser. ",
+            "poster": "https://i.pinimg.com/originals/14/8d/1c/148d1c714662504271d6cd290bff4b68.jpg"
+        },
+        {
+            "titulo": "De volta para o futuro",
+            "ano": "1985",
+            "genero": "Ficção-Científica",
+            "direcao": "Robert Zemeckis",
+            "descricao": "Marty McFly, um adolescente de uma pequena cidade californiana, é transportado para a década de 1950 quando a experiência do excêntrico cientista Doc Brown dá errado. Viajando no tempo em um carro modificado, Marty conhece versões jovens de seus pais e precisa fazer com que eles se apaixonem, ou então ele deixará de existir. Para complicar, Marty precisa voltar para casa a tempo de salvar o cientista.",
+            "poster": "https://images-na.ssl-images-amazon.com/images/I/51vY7y28FOL._AC_.jpg"
+        },
+        {
+            "titulo": "O estranho mundo de Jack",
+            "ano": "1993",
+            "genero": "Musical",
+            "direcao": "Henry Selick",
+            "descricao": "Jack Skellington, o Rei das Abóboras, se cansa de fazer o Dia das Bruxas todos os anos e deixa os limites da cidade. Por acaso, acaba atravessando o portal do Natal, onde vê a alegria do espírito natalino. Ao retornar para a Cidade do Halloween, sem ter compreendido o que viu, ele começa a convencer os cidadãos a sequestrarem o Papai Noel e fazerem seu próprio Natal. Apesar de sua leal namorada Sally ser contra, o Papai Noel é capturado e os fatos mostrarão que Sally estava certa o tempo todo. ",
+            "poster": "https://www.vortexcultural.com.br/images/2017/12/O-Estranho-Mundo-de-Jack.jpg"
+        },
+        {
+            "titulo": "Forest Gump",
+            "ano": "1994",
+            "genero": "Comédia",
+            "direcao": "Robert Zemeckis",
+            "descricao": "Mesmo com o raciocínio lento, Forrest Gump nunca se sentiu desfavorecido. Graças ao apoio da mãe, ele teve uma vida normal. Seja no campo de futebol como um astro do esporte, lutando no Vietnã ou como capitão de um barco de camarão, Forrest inspira a todos com seu otimismo infantil. Mas a pessoa com quem Forrest mais se preocupa pode ser a mais difícil de salvar: seu amor de infância, a doce, mas perturbada Jenny.",
+            "poster": "https://i.pinimg.com/originals/63/db/a8/63dba8fa7ffa7d64876d1ea15133cd8e.jpg"
+        },
+        {
+            "titulo": "Ford vs Ferrari",
+            "ano": "2019",
+            "genero": "Ação",
+            "direcao": "James Mangold",
+            "descricao": "O projetista Carroll Shelby e o piloto Ken Miles enfrentaram a interferência empresarial, as leis da física e os próprios demônios para construir um carro de corrida para a Ford Motor derrotar a hegemonia de Enzo Ferrari nas 24 horas de Le Mans. ",
+            "poster": "https://i.pinimg.com/564x/d4/ea/20/d4ea201ad4c5c9f97cb16942030d0847.jpg"
+        },
+        {
+            "titulo": "Hereditário",
+            "ano": "2018",
+            "genero": "Terror",
+            "direcao": "Ari Aster",
+            "descricao": "Após a morte da reclusa avó, a família Graham começa a desvendar algumas coisas. Mesmo após a partida da matriarca, ela permanece como se fosse uma sombra sobre a família, especialmente sobre a solitária neta adolescente, Charlie, por quem ela sempre manteve uma fascinação não usual. Com um crescente terror tomando conta da casa, a família explora lugares mais escuros para escapar do infeliz destino que herdaram.",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg"
+        },
+        {
+            "titulo": "Efeito Borboleta",
+            "ano": "2004",
+            "genero": "Suspense",
+            "direcao": "Eric Bress, J. Mackye Gruber",
+            "descricao": "O estudante universitário Evan Treborn está aflito com dores de cabeça tão fortes que frequentemente desmaia. Enquanto está inconsciente, Evan pode viajar de volta no tempo para momentos de dificuldades na infância. Ele também pode alterar o passado para os amigos, como Kayleigh, que foi molestada pelo pai. Porém ao mudar o passado, ele pode alterar o presente, o que leva Evan a se encontrar em um pesadelo de realidades alternativas, incluindo uma onde ele está preso.",
+            "poster": "https://i.pinimg.com/originals/0a/98/90/0a9890fc1a72cfea899675fd6ea0c049.jpg"
+        },
+        {
+            "titulo": "Hancock",
+            "ano": "2008",
+            "genero": "Ação",
+            "direcao": "Peter Berg",
+            "descricao": "Hancock, um super-herói desajeitado, protege os cidadãos de Los Angeles mas causa danos colaterais a cada ato heroico que realiza. Hancock não se importa com o que as pessoas pensam. Entretanto, após salvar a vida de um executivo, ele conhece a bela esposa dele e descobre que, apesar de tudo, é um homem sensível. ",
+            "poster": "https://i.pinimg.com/originals/8d/b7/c7/8db7c758c4f638a68454341bd96c2448.jpg"
+        },
+        {
+            "titulo": "Watchmen",
+            "ano": "2009",
+            "genero": "Ação",
+            "direcao": "Zack Snyder",
+            "descricao": "Um de seus antigos colegas é assassinado, e o vigilante mascarado Rorschach decide investigar um plano para matar e desacreditar todos os super-heróis do passado e do presente. À medida que ele se reconecta com sua antiga legião de combate ao crime, um grupo desorganizado de super-heróis aposentados, dentre os quais somente um possui verdadeiros poderes, Rorschach vislumbra uma ampla e perturbadora conspiração que está ligada ao passado deles e a catastróficas consequências para o futuro.",
+            "poster": "https://i.pinimg.com/originals/b8/46/5c/b8465cde1a98cba4e55ddf9e11604d00.jpg"
+        }
+    ]
+}

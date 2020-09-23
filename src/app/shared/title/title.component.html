@@ -1,0 +1,49 @@
+<div class="title-item" *ngFor="let movie of result.filmes">
+
+    <img src="{{movie.poster}}" alt="Título" height="300">
+    <div class="items" (click)="open(content)" style="cursor: pointer;"> 
+        <div class="left-side">
+            <h2>{{movie.titulo}}</h2>
+            <ul class="infos">
+                <li class="year">{{movie.ano}}</li>
+                <li class="parts">{{movie.direcao}}</li>
+            </ul>
+            <ul class="categories">
+                <li>{{movie.genero}}</li>
+            </ul>
+        </div>
+
+    </div>
+
+    
+    
+    <ng-template #content let-modal>
+      <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">{{movie.titulo}}</h4>
+        <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form>
+          
+           <div class="infos" style="text-align: center;">
+            <img src="{{movie.poster}}" alt="Título" height="300"><br>
+           <strong> Ano:</strong>  <span class="year">   {{movie.ano}}   </span>
+          <strong> Direção: </strong>  <span class="parts"> {{movie.direcao}}   </span>
+           <strong>  Gênero:  </strong> <span class="categories"> {{movie.genero}}   </span>
+         
+         </div>
+         <br>
+          <div class="form-group ">
+            <p> <strong>Descrição: </strong>
+             {{movie.descricao}}</p>
+          </div>
+          <button type="button" class="watch">Assistir</button>
+        </form>
+      </div>
+    </ng-template>
+
+</div>
+
+
