@@ -9,6 +9,7 @@ export class AppComponent {
   result: any;
   menuOpened = false;
   filmes = '../assets/js/filmes.json'
+  title: any;
 
   constructor(public http: HttpClient) {}
 
